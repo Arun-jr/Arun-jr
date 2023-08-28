@@ -1,9 +1,11 @@
 <h1 align="center">Hi there👋, I'm Arun</h1>
-<h3 align="center">Creating Seamless Web Experiences | Front-End Web Developer</h3>
-- 🔭 I’m currently working on [Myunde.com](https://myunde.com/)
-- 🌱 I’m currently learning **Next js **
-- 💬 Ask me about **Front end development**
-- 📫 How to reach me **arun.devventure2018@gmail.com**
+<h3 align="center">Creating Seamless Web Experiences | Front-End Web Developer</h3> <br/>
+- 🔭 I’m currently working on [Myunde.com](https://myunde.com/) <br/>
+- 🌱 I’m currently learning **Next js ** <br/>
+- 💬 Ask me about **Front end development** <br/>
+
+
+- 📫 How to reach me **arun.devventure2018@gmail.com** <br/>
 
 <div> <a href = "mailto:arun.devventure2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
